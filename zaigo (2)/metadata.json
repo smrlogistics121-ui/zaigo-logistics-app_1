@@ -1,0 +1,6 @@
+{
+  "name": "Zaigo",
+  "description": "Bangalore intracity goods transport app like Porter with Customer, Driver, and Admin panels. Features ₹49 registration, ₹20 daily driver deduction, ₹40 wallet lock threshold, cash payments, and document verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

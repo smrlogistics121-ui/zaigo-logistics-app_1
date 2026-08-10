@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Fast delivery motion lines -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M24,40 h12 v4 h-12 z M20,48 h16 v4 h-16 z M26,56 h10 v4 h-10 z" />
+    <!-- Truck body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,36 h30 v28 h-30 z M68,44 h16 l8,10 v10 h-24 z" />
+    <!-- Cabin Window -->
+    <path
+        android:fillColor="#004D40"
+        android:pathData="M70,47 h10 l4,5 h-14 z" />
+    <!-- Wheels -->
+    <path
+        android:fillColor="#263238"
+        android:pathData="M44,64 a6,6 0 1,0 0,12 a6,6 0 1,0 0,-12 M76,64 a6,6 0 1,0 0,12 a6,6 0 1,0 0,-12" />
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M44,67 a3,3 0 1,0 0,6 a3,3 0 1,0 0,-6 M76,67 a3,3 0 1,0 0,6 a3,3 0 1,0 0,-6" />
+</vector>
